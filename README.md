@@ -77,6 +77,7 @@ A construção do dashboard exigiu a **Modelagem de Dados** e o tratamento de in
 ## Ferramentas e Tecnologias
 
 * **Plataforma:** Google Sheets
+* **Fonte de Dados:** Kaggle
 * **Habilidades:** tabelas dinâmicas, slicer, validação de dados, linguagem de fórmulas.
 
 ---
