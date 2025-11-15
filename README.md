@@ -87,4 +87,4 @@ Para quem deseja interagir com o dashboard e entender sua construção:
 
 1.  **Acesso:** Abra o arquivo `sales_report` (a planilha principal).
 2.  **Visualização:** Navegue até a aba **"Dashboard"** para ver os KPIs e gráficos. Use o **controle de dados**, localizado no topo, para filtrar os resultados por **ano do pedido (ORDER YEAR)**.
-3.  **Reprodução:** As **tabelas dinâmicas** (que alimentam o dashboard) estão na aba **"Cálculos"**. 
+3.  **Reprodução:** As **tabelas dinâmicas** (que alimentam o dashboard) estão na aba **"Calculations"**. 
