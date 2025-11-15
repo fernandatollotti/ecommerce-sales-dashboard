@@ -14,9 +14,9 @@
 * [Dados Utilizados](#dados-utilizados)
 * [Principais Métricas (KPIs)](#principais-métricas-kpis)
 * [Estrutura e Interatividade](#estrutura-e-interatividade)
-* [Desafios de Modelagem](#desafios-de-modelagem)
+* [Desafios](#desafios)
 * [Ferramentas e Tecnologias](#ferramentas-e-tecnologias)
-* [Instruções para Reprodução](#instruções-para-reprodução)
+* [Guia de execução](#guia-de-execução)
 
 ---
 
@@ -65,12 +65,12 @@ O dashboard foi desenvolvido para ser totalmente interativo, permitindo que o us
 
 ---
 
-## Desafios de Modelagem
+## Desafios
 
 A construção do dashboard exigiu a **Modelagem de Dados** e o tratamento de informações para garantir a integridade e a correta visualização dos dados de vendas:
 
 * **Ordenação Temporal:** Foi necessário modelar o tempo (mês e ano) usando funções de data. Isso garante que o gráfico de tendência seja **ordenado cronologicamente** (Janeiro, Fevereiro...) e não alfabeticamente.
-* **Cálculos Confiáveis:** O cálculo preciso do Ticket Médio (AOV) foi estabelecido por meio de uma Tabela Dinâmica configurada para combinar a **Soma da Receita** com a **Contagem de Pedidos**.
+* **Cálculos Confiáveis:** O cálculo preciso do ticket médio (AOV) foi estabelecido por meio de uma Tabela Dinâmica configurada para combinar a **soma da receita** com a **contagem de pedidos**.
 
 ---
 
